@@ -1,8 +1,8 @@
 void main() {
-  bool yes=true;
-  bool not=false;
-  String boolyes=yes.toString();
-  String boolnot=not.toString();
+  bool yes=true;//declare bool variable
+  bool not=false;//declare bool variable
+  String boolyes=yes.toString();//convert bool to string
+  String boolnot=not.toString();//convert bool to sting
 
   print(boolyes);
   print(boolnot);

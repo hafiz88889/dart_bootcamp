@@ -1,6 +1,6 @@
 
 void main() {
-  double myDouble = 3.9;
-  int myInt = myDouble.toInt();
-  print(myInt); // Output: 3
+  double myresult = 4.79;//declare double variable
+  int myres = myresult.toInt();// convert double to int varibale
+  print(myres); //print Output: 4
 }
